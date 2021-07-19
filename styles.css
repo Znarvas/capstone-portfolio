@@ -38,13 +38,20 @@ nav {
     min-height: 10vh;
     background-color: #202330;
     font-family: sans-serif;
-    text-align: center;
+
 }
 
-.fixed-top {
-  float: right;
+#namehead{
+  text-align: center;
+  margin-bottom: 3rem;
+  font-family: 'Roboto', sans-serif;
+  font-size: 10px;
+  color: #fff;
 }
 
+.top-Nav{
+  text-align: center;
+}
 
 .logo{
   color: rgb(226, 226, 226);
